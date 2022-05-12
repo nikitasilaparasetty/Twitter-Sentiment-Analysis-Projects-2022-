@@ -14,6 +14,7 @@ A huge proportion of the world's population use social media as a way to express
 ## Project Objective:
 
 The objective of this project is to write a Python program that will input a particular query from a user (in this case, we use the example of 'Elon Musk'), gather tweets that contain this query, clean the tweets to remove unnecesarry content, identify the sentiments of users (positive, negative, neutral) towards this particular query, and then visualise it in a pie chart. A word cloud is also created to identify all the words that are most associated with this particular query.
+*Note: You will need to create a Twitter Developer Account in order to get the Twitter API keys that you need to use when accessing tweets through your code.*
 
 
 ## Use Case:
